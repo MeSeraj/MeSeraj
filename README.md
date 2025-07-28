@@ -14,7 +14,7 @@
 - 💼 Open to collaborations on interesting open-source projects
 - 🧰 Favorite tools: VS Code, Git, Docker, Figma
 - 💬 Ask me about **JavaScript, React, Node.js, Python**
-- ✍️ Writing blogs on [Your Blog/Medium](https://www.websenate.com/blog/)
+- ✍️ Writing blogs on [Web Senate](https://www.websenate.com/blog/)
 - 📫 Reach me at: **seraj@websenate.com**
 
 ---
